@@ -1,0 +1,9 @@
+Building Molikcoin
+
+See doc/readme-qt.rst for instructions on building Molikcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Molikcoin.
+
+See doc/build-*.txt for instructions on building molikcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Molikcoin.
